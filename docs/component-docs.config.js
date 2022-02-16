@@ -120,4 +120,9 @@ module.exports = {
   output: dist,
   github,
   title: '[title] · React Native Paper',
+  colors: {
+    annotations: {
+      label: '#6200ee',
+    },
+  },
 };
